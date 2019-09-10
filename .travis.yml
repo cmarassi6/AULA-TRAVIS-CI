@@ -2,6 +2,6 @@ language: python
 python:
 - "3.4"
 before_script:
-- cd src
+- cd SRC
 script:
 - python testes.py
